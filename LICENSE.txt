@@ -1,10 +1,8 @@
-Make sure to place a file named LICENSE.txt in every repository which determines license used.
-
-For this repository:
+Make sure to place a file named LICENSE.txt in every repository which determines license used. For this repository:
 
 The MIT License (MIT)
 
-Copyright (c) 2014 OpenHam <OpenHam@MIT.EDU>
+Copyright (c) 2014 OpenHam Developers: Eugene Lee <leee@mit.edu>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
